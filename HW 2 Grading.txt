@@ -7,4 +7,13 @@ Cristina Bañuelos
 
 3. Correct
 
-4. Made the correct conclusion, but did not refer to the Central Limit Theorem. I also did not calculate the outcomes of rolling the dice the same way, and instead which created a different distribution. I had a random generator of 1 number between the minimum and maximum value possible given the number of dice, instead of generating a different value from 1-6 for each of dice given. For example, I used runif(10000, min =6 , max = 36), instead of adding 6 different numbers generated from one die with runif(10000, min =1 , max = 6).
+4. Made the correct conclusion, but did not refer to the Central Limit Theorem. 
+
+I also did not calculate the outcomes of rolling the dice the same way, 
+and instead created different distributions. 
+
+I had a random generator of 1 number between the minimum and maximum value possible given the number of dice, 
+instead of generating a different value from 1-6 for each of dice given. 
+
+For example, I used runif(10000, min =6 , max = 36), 
+instead of adding 6 different numbers generated from one die with runif(10000, min =1 , max = 6).
