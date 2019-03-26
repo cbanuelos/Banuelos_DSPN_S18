@@ -1,0 +1,85 @@
+HW 3 Grading
+Cristina Bañuelos
+
+1a. Correct other than I didn't write out the portion squared and carry out the foiling exactly correct, leaving out a constant of 2 on one term. 
+
+1b. Correct
+
+1c. Incorrect; I didn't simplify by substituting B0, and was not able eliminate all the other terms from the steps 5-7.
+
+2. Correct; but I could have also mentioned that X & Y anchor the regression solution around the means of 2 distributions.
+
+3. Correct
+
+4. Correct
+
+5a. Correct
+
+5b. Correct
+
+5c. Correct; I could have also mentioned that we could examine the p-value in order to determine significance.
+
+6. Correct
+
+7a. Correct; Except I did not include the assumption that Z is categorical.
+
+7b. Correct
+
+7c. Correct; I could have also mentioned that it still impacts the response variable itself.
+
+8a. Correct
+
+8b. Correct; Except I did not plot the lm.fit
+
+8c. Correct
+
+8d. Correct
+
+9a. Correct
+
+9b. Correct
+
+9c. Correct
+
+9d. Correct
+
+9e. Correct; Used different and more interactions
+
+9f. Correct
+
+10a. Correct
+
+10b. Correct
+
+10c. Correct; I used more significant figures
+
+10d. Correct
+
+10e. Correct
+
+10f. Correct
+
+10g. Correct
+
+10h. Correct
+
+11a. Correct
+
+11b. Correct
+
+11c. Correct
+
+11d. Correct
+
+11e. Correct
+
+11f. Correct
+
+11g. Correct
+
+11h. Correct; Except I did not change the eps; and I made the sd much much larger.
+
+11i. Correct; Except I did not change the eps; and I made the sd smaller larger. 
+
+11j. Correct; With the mistakes carried over from h & i.
+
