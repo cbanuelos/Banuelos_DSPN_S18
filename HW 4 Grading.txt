@@ -1,0 +1,61 @@
+HW 4 Grading
+Cristina Bañuelos
+
+1. Correct
+
+2. Correct; I could've included more details while comparing all three methods.
+
+3. Correct; I could've stated it more simply, such as its where p approaches n.
+
+4. Correct; Answer key was left on the HW
+
+5a. Correct
+
+5b. Correct
+
+5c. Correct
+
+5d. Correct
+
+5e. Correct
+
+5f. Correct
+
+5g. Correct
+
+5h. Correct? Answer key only states the ones with similar test error rates, and not overall best.
+
+5i. Complete; Different experimentation done
+
+6a. Correct
+
+6b. Correct
+
+6c. Correct; Very different test set and training set solution
+
+6d. Correct; Different factors used, different value compared
+
+6e. Correct; Different factors used, different value compared
+
+6f. Correct; Different factors used, different value compared
+
+6g. Incomplete; Had a bug with the arguments used not being of the same length. I should have made my parameters like the solution:
+
+train.X = cbind(cylinders, weight, displacement, horsepower)[train, ]
+test.X = cbind(cylinders, weight, displacement, horsepower)[test, ]
+train.mpg01 = mpg01[train]
+
+Instead of:
+
+train = data.frame(trainingSet$displacement)
+test = data.frame(testSet$displacement)
+cl = trainingSet$mpg01
+
+Otherwise, correct. 
+
+
+
+
+
+
+
